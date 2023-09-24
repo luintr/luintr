@@ -1,16 +1,14 @@
-### Hi there 👋
+# About Me
 
-<!--
-**luintr/luintr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome! It's wonderful to be here with me
 
-Here are some ideas to get you started:
+- **Email**:  hainam.huflit@gmail.com
+- **Role**:  Creative Frontend Developer
+- **Rules**: 
+	- Always working with accuracy and transparency.
+  - Well-made website require effort and comprehension.
+  - Focus is the key, every minute is important.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Luin's GitHub Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luintr&hide_progress=true&layout=donut-vertical)
