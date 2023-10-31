@@ -2,7 +2,7 @@
 
 👋 Welcome! It's wonderful to be here with me
 
-- **Email**:  hainam.huflit@gmail.com
+- **Email**:  luintr.work@gmail.com
 - **Role**:  Creative Frontend Developer
 - **Rules**: 
 	- Always working with accuracy and transparency.
