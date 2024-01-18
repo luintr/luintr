@@ -4,9 +4,9 @@
 
 - **Email**:  luintr.work@gmail.com
 - **Role**:  Creative Frontend Developer
-- **Rules**: 
+- **Codes**: 
 	- Always working with accuracy and transparency.
-  - Well-made website require effort and comprehension.
+  - A well-made website requires effort and comprehension.
   - Focus is the key, every minute is important.
 
 ## Luin's GitHub Top Languages
