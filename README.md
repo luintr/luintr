@@ -48,10 +48,10 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/26-duc-bang/" target="blank">
+  <a href="https://www.linkedin.com/in/tlhn99/" target="blank">
     <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" alt="ducbang26-linkedin" />
   </a>
-  <a href="mailto:bang26112001@gmail.com" target="top">
-    <img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" alt="ducbang26-email" />
+  <a href="mailto:luintr.work@gmail.com" target="top">
+    <img src="https://img.icons8.com/clouds/100/000000/apple-mail.png" alt="luin-email" />
   </a>
 </div>
